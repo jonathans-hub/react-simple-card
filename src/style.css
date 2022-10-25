@@ -1,0 +1,41 @@
+
+.image {
+    width: 200px;
+    height: 200px ;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 25px;
+
+}
+
+.title {
+    font-weight: 700;
+    font-size: 3.8rem;
+    position: relative;
+    margin-left: 222px;
+    padding-left: 20px;
+    margin-bottom: 0px;
+    border: 1px solid black;
+    width: 950px;
+    margin-top: 25px;
+}
+
+.description {
+    font-size: 20px;
+    position: relative;
+    margin-left: 222px;
+    padding-left: 20px;
+    margin-top: 2px;
+    font-size: 2rem;
+    border: 1px solid black;
+    width: 950px;
+    height: 107px;
+    padding-top: 5px;
+}
+
+.Card {
+    margin-top: 20px;
+    border: 1px solid black;
+    width: 1222px;
+    margin-left: 20px;
+}
